@@ -1,0 +1,133 @@
+export const takeoutdata = [
+  {
+    id: "1",
+    from: "John Brown",
+    to: 32,
+    time: "12:00",
+    state: "Đang lấy hàng",
+  },
+  {
+    id: "2",
+    from: "John Brown",
+    to: 32,
+    time: "12:00",
+    state: "Đang lấy hàng",
+  },
+  {
+    id: "3",
+    from: "John Brown",
+    to: 32,
+    time: "12:00",
+    state: "Đang lấy hàng",
+  },
+  {
+    id: "4",
+    from: "John Brown",
+    to: 32,
+    time: "12:00",
+    state: "Đang lấy hàng",
+  },
+
+  {
+    id: "5",
+    from: "John Brown",
+    to: 32,
+    time: "12:00",
+    state: "Đang lấy hàng",
+  },
+
+  {
+    id: "6",
+    from: "John Brown",
+    to: 32,
+    time: "12:00",
+    state: "Đang lấy hàng",
+  },
+  {
+    id: "7",
+    from: "John Brown",
+    to: 32,
+    time: "12:00",
+    state: "Đang lấy hàng",
+  },
+  {
+    id: "8",
+    from: "John Brown",
+    to: 32,
+    time: "12:00",
+    state: "Đang lấy hàng",
+  },
+  {
+    id: "9",
+    from: "John Brown",
+    to: 32,
+    time: "12:00",
+    state: "Đang lấy hàng",
+  },
+  {
+    id: "10",
+    from: "John Brown",
+    to: 32,
+    time: "12:00",
+    state: "Đang lấy hàng",
+  },
+  {
+    id: "11",
+    from: "John Brown",
+    to: 32,
+    time: "12:00",
+    state: "Đang lấy hàng",
+  },
+];
+
+export const speVerhicleTakeOut = [
+  {
+    id: "1",
+    name: "XCD-12",
+    numbercode: "49520",
+    type: "XCD lớn",
+    state: "Đang hoạt động",
+  },
+  {
+    id: "2",
+    name: "XCD-13",
+    numbercode: "49520",
+    type: "XCD lớn",
+    state: "Đang hoạt động",
+  },
+  {
+    id: "3",
+    name: "XCD-14",
+    numbercode: "49520",
+    type: "XCD lớn",
+    state: "Đang hoạt động",
+  },
+  {
+    id: "4",
+    name: "XCD-15",
+    numbercode: "49520",
+    type: "XCD lớn",
+    state: "Đang hoạt động",
+  },
+  {
+    id: "5",
+    name: "XCD-16",
+    numbercode: "49520",
+    type: "XCD lớn",
+    state: "Đang hoạt động",
+  },
+  {
+    id: "6",
+    name: "XCD-17",
+    numbercode: "49520",
+    type: "XCD lớn",
+    state: "Đang hoạt động",
+  },
+  {
+    id: "7",
+    name: "XCD-18",
+    numbercode: "49520",
+    type: "XCD lớn",
+    state: "Đang hoạt động",
+  },
+];

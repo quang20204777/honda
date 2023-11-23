@@ -1,0 +1,84 @@
+.ant-layout {
+    min-height: 100vh !important;
+}
+
+.ant-layout-header span.trigger svg {
+    width: 25px !important;
+    height: 25px !important;
+}
+
+.ant-menu{
+    background-color: #e5abab ;
+    color: white ;
+}
+
+li.ant-menu-item:hover {
+    background-color: #c00000 !important;
+    color: white !important;
+}
+
+.ant-menu-submenu-title:hover {
+    background-color: #c00000 !important;
+    color: white !important;
+}
+
+.ant-layout-sider-children {
+    background-color: #e5abab !important;
+}
+
+.ant-menu-item span.ant-menu-title::content a.nav-link::before{
+    text-align: left !important;
+}
+
+.ant-menu.ant-menu-root.ant-menu-inline.ant-menu-light.css-dev-only-do-not-override-qgg3xn {
+    background-color: #e5abab !important;
+    color: #ffffff !important;
+}
+
+.ant-menu.ant-menu-root.ant-menu-vertical.ant-menu-light.ant-menu-inline-collapsed.css-dev-only-do-not-override-qgg3xn {
+    background-color: #e5abab !important;
+    color: #ffffff !important;
+}
+
+.warehouse {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+.ant-layout-content.warehouse {
+    padding: 0 !important;
+}
+
+.takeOutHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.speVerhicleHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+button.ant-btn.css-dev-only-do-not-override-qgg3xn.ant-btn-primary {
+    background-color: #ffffff !important;
+    border: 1px solid #d9d9d9;
+    transition: all 0.2s;
+}
+
+button.ant-btn.css-dev-only-do-not-override-qgg3xn.ant-btn-primary span {
+    color: black !important;
+    transition: all 0.2s;
+}
+
+button.ant-btn.css-dev-only-do-not-override-qgg3xn.ant-btn-primary:hover {
+    border: 1px solid #91ffa5;
+}
+
+button.ant-btn.css-dev-only-do-not-override-qgg3xn.ant-btn-primary span:hover{
+    color: #91ffa5 !important;
+}
+
+
+
